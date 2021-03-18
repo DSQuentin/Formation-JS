@@ -1,3 +1,19 @@
+body {
+  font-family: sans-serif !important;
+}
 
+h3 {
+  font-size: 2rem !important;
+}
 
-/*# sourceMappingURL=style.css.map */
+.container {
+  width: 160px !important;
+}
+
+.form-group {
+  display: flex;
+}
+
+#countdown {
+  font-size: 13rem;
+}
