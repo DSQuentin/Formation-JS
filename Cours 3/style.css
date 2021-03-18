@@ -63,21 +63,21 @@ main {
   transform: translateX(29px);
 }
 
-.fa-moon{
-    color #333;
+.fa-moon {
+  color: #333;
 }
 
 /* DARK MODE */
-.dark{
-    background: #333;
+.dark {
+  background: #333;
 }
 .dark main {
-    background: #09FBBA;
+  background: #09fbba;
 }
-.dark .label{
-    box-shadow: 2px 1px 1px #09FBBA;
-    background: #888;
+.dark .label {
+  box-shadow: 2px 1px 1px #09fbba;
+  background: #888;
 }
 .dark .ball {
-    background: #09FBBA;
+  background: #09fbba;
 }
