@@ -11,3 +11,7 @@ Animer la Sidebar + hamburger menu
 ## Cours 2 :
 
 Faire tomber de la pluie de façon aléatoire
+
+## Cours 3 :
+
+Le mode nuit
