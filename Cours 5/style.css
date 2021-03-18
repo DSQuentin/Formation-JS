@@ -6,7 +6,7 @@ body {
   justify-content: center;
   height: 100vh;
   margin: 0;
-  transition: background 2s linear;
+  transition: background 1.5s linear;
 }
 
 #color {

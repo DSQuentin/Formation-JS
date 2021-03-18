@@ -32,3 +32,4 @@ Aperçu : https://random-rgb.netlify.app/
 ## Cours 6 :
 
 Ligne qui traverse un texte
+Aperçu : https://learning-javascript-line.netlify.app/
