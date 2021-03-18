@@ -19,3 +19,7 @@ Le mode nuit
 ## Cours 4 :
 
 Créer un compte à rebours
+
+## Cours 5 :
+
+Générer des couleurs aléatoirement
