@@ -51,5 +51,9 @@ Aperçu : https://navbar-animated-opacity.netlify.app/
 
 ## Cours 10 :
 
-Créer un générateur de Mot de Passe
+Créer un générateur de Mot de Passe <br>
 Aperçu : https://password-random-generator.netlify.app/
+
+## Cours 11 :
+
+Appeler et rechercher une API avec un Fetch et .map
