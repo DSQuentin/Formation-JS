@@ -43,3 +43,8 @@ Aperçu : https://play-drum-bass.netlify.app/
 
 Animer la souris <br>
 Aperçu : https://animated-mouse.netlify.app/
+
+## Cours 9 :
+
+Animer la Navbar <br>
+Aperçu : https://navbar-animated-opacity.netlify.app/
