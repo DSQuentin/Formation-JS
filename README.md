@@ -56,9 +56,10 @@ Aperçu : https://password-random-generator.netlify.app/
 
 ## Cours 11 :
 
-Appeler et rechercher une API avec un Fetch et .map
+Appeler et rechercher une API avec un Fetch et .map <br>
 Aperçu : https://worldwide-population.netlify.app/
 
 ## Cours 12 :
 
-Animer un bouton avec un gradient au survol
+Animer un bouton avec un gradient au survol <br>
+Aperçu : https://awesome-button.netlify.app/
