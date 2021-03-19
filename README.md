@@ -48,3 +48,7 @@ Aperçu : https://animated-mouse.netlify.app/
 
 Animer la Navbar <br>
 Aperçu : https://navbar-animated-opacity.netlify.app/
+
+## Cours 10 :
+
+Créer un générateur de Mot de Passe
