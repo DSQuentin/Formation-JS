@@ -38,3 +38,8 @@ Aperçu : https://learning-javascript-line.netlify.app/
 
 Réaliser une boite à musique (drum machine) <br>
 Aperçu : https://play-drum-bass.netlify.app/
+
+## Cours 8 :
+
+Animer la souris <br>
+Aperçu : https://animated-mouse.netlify.app/
