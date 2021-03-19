@@ -6,7 +6,7 @@ Bases, Manipulation du DOM, Manipulation des donées, Travailler avec des API
 
 ## Cours 1 :
 
-Animer la Sidebar + hamburger menu
+Animer la Sidebar + hamburger menu <br>
 Aperçu : https://sidebar-is-life.netlify.app/
 
 ## Cours 2 :
@@ -33,3 +33,8 @@ Aperçu : https://random-rgb.netlify.app/
 
 Ligne qui traverse un texte <br>
 Aperçu : https://learning-javascript-line.netlify.app/
+
+## Cours 7 :
+
+Réaliser une boite à musique (drum machine) <br>
+Aperçu : https://play-drum-bass.netlify.app/
