@@ -7,15 +7,46 @@
     
   <title>Bac à sable</title>
 
+  <link href="./style.css" rel="stylesheet">
   <!-- <link href="./assets/bootstrap.css" rel="stylesheet"> -->
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
-  <link href="./style.css" rel="stylesheet">
+
 </head>
-
 <body>
+  
+  <h1>Border-radius<br/>generator</h1>
+
+  <div class="range">
+    <div class="rangeBox">
+      <h5>Radius</h5>
+      <input type="range" min="0" max="300" step="1" value="0"    
+          id="radiusRange"
+          oninput="document.getElementById('radiusDisplay').value=this.value"
+      >
+      <input type="number" value="0"
+          id="radiusDisplay"
+          oninput="document.getElementById('radiusRange').value=this.value"
+      >
+    </div>
+
+    <div class="rangeBox">
+      <h5>Angle</h5>
+      <input type="range" min="0" max="400" step="1" value="0"    
+        id="angleRange"
+        oninput="document.getElementById('angleDisplay').value=this.value"
+      >
+      <input type="number" value="0"
+        id="angleDisplay"
+        oninput="document.getElementById('angleRange').value=this.value"
+      >
+    </div>
+  </div>
 
 
-   
+  <div id="canvas" class="canvas"></div>
+
+  <input id="codeToCopy" value="border-radius: 0px;"></input><br/>
+  <button id="button" type=button onclick="copyCode()">Copy your code</button>
 
 
   <script src="./assets/jquery.min.js" type="text/javascript" ></script>
