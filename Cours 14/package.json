@@ -1,0 +1,24 @@
+{
+  "name": "starting_file",
+  "version": "1.0.0",
+  "description": "Wesh alors :)",
+  "main": "js.js",
+  "scripts": {
+    "sass": "sass --watch ./main.scss:./style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KobeKenjo/basic_project_file.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KobeKenjo/basic_project_file/issues"
+  },
+  "homepage": "https://github.com/KobeKenjo/basic_project_file#readme",
+  "devDependencies": {
+    "eslint": "^7.22.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1"
+  }
+}
