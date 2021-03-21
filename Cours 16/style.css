@@ -1,17 +1,17 @@
-@import url('https://fonts.googleapis.com/css?family=Montserrat+Alternates&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Montserrat+Alternates&display=swap");
 
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Montserrat Alternates', sans-serif;
+  font-family: "Montserrat Alternates", sans-serif;
 }
 body {
   background: #eee;
 }
 nav {
   width: 100%;
-  background: #34BDFF;
+  background: #34bdff;
   box-shadow: 0 0 3px #333;
   position: fixed;
 }
@@ -31,14 +31,15 @@ nav {
   color: #333;
 }
 .nav-elements h2 {
-  transition: all .3s ease-in-out;
+  transition: all 0.3s ease-in-out;
 }
 .nav-links {
   display: flex;
   justify-content: space-between;
   list-style-type: none;
 }
-.nav-links, h2 {
+.nav-links,
+h2 {
   flex: 1;
   color: #333;
 }
@@ -86,9 +87,9 @@ p::first-letter {
 #img-improvise {
   width: 60%;
   padding: 2rem;
-  /* opacity: 0;
+  opacity: 0;
   transform: translateX(-200px);
-  transition: 1s ease-in; */
+  transition: 1s ease-in;
 }
 .dummy-improvise {
   display: flex;
@@ -120,18 +121,18 @@ p::first-letter {
 }
 
 .pop-up {
-  position : fixed;
+  position: fixed;
   right: 1rem;
   bottom: 2rem;
   height: 250px;
   width: 520px;
   text-align: center;
-  background: linear-gradient(90deg, #30587A, rgb(36, 113, 180));
+  background: linear-gradient(90deg, #30587a, rgb(36, 113, 180));
   border-radius: 76% 24% 90% 10% / 20% 85% 15% 80%;
   box-shadow: 0 5px 10px black;
-  /* opacity: 0;
+  opacity: 0;
   transform: translateX(400px);
-  transition: 1s ease-out; */
+  transition: 1s ease-out;
 }
 .pop-up-container {
   width: 100%;
@@ -143,7 +144,8 @@ p::first-letter {
 .pop-up-container h3 {
   color: white;
   margin: 1rem;
-  font-size: 1.5rem;}
+  font-size: 1.5rem;
+}
 .button-container input {
   border: 1px solid #333;
   padding: 1rem 2rem;
@@ -151,7 +153,7 @@ p::first-letter {
   box-shadow: 1px 2px 0 black;
   outline: none;
   font-size: 1.2rem;
-  transition: .5s;
+  transition: 0.5s;
 }
 .button-container input:focus {
   background: rgb(211, 242, 251);
@@ -178,7 +180,7 @@ p::first-letter {
 .fa-times-circle {
   position: absolute;
   left: 2rem;
-  top: .7rem;
+  top: 0.7rem;
   font-size: 1.7rem;
   color: white;
   text-shadow: 2px 2px 0px #333;
