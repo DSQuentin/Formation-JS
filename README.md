@@ -83,3 +83,7 @@ Aperçu : https://javascript-quiz-poo.netlify.app/
 
 Déclencher des événements au scroll <br>
 Aperçu : https://event-on-scroll.netlify.app/
+
+## Cours 17 :
+
+Le local storage, stocker les données de l'utilisateur
