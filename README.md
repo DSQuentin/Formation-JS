@@ -86,4 +86,5 @@ Aperçu : https://event-on-scroll.netlify.app/
 
 ## Cours 17 :
 
-Le local storage, stocker les données de l'utilisateur
+Le local storage, stocker les données de l'utilisateur <br>
+Aperçu : https://local-storage-stock.netlify.app/
