@@ -73,3 +73,7 @@ Aperçu : https://border-radius-angle-generator.netlify.app/
 
 Animer de la 3D <br>
 Aperçu : https://3d-cube-animated.netlify.app/
+
+## Cours 15 :
+
+Créer un quiz en Javascript (POO) <br>
