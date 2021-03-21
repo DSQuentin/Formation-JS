@@ -78,3 +78,7 @@ Aperçu : https://3d-cube-animated.netlify.app/
 
 Créer un quiz en Javascript (POO) <br>
 Aperçu : https://javascript-quiz-poo.netlify.app/
+
+## Cours 16 :
+
+Déclencher des événements au scroll <br>
