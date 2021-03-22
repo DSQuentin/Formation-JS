@@ -92,3 +92,4 @@ Aperçu : https://local-storage-stock.netlify.app/
 ## Cours 18 :
 
 Créer une application de recettes de cuisine (API themealdb) <br>
+Aperçu : https://meals-for-all.netlify.app/
