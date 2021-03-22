@@ -93,3 +93,7 @@ Aperçu : https://local-storage-stock.netlify.app/
 
 Créer une application de recettes de cuisine (API themealdb) <br>
 Aperçu : https://meals-for-all.netlify.app/
+
+## Cours 19 :
+
+Créer une Todo List qui enregistre les Todos
