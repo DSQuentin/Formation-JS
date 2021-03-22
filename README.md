@@ -88,3 +88,7 @@ Aperçu : https://event-on-scroll.netlify.app/
 
 Le local storage, stocker les données de l'utilisateur <br>
 Aperçu : https://local-storage-stock.netlify.app/
+
+## Cours 18 :
+
+Créer une application de recettes de cuisine (API themealdb) <br>
