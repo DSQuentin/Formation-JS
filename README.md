@@ -102,3 +102,4 @@ Aperçu : https://todos-list-remembered.netlify.app/
 ## Cours 20 :
 
 Recadrer les éléments du DOM comme sur FreeCodeCamp ou CodePen <br>
+Aperçu : https://crop-dom-elements.netlify.app/
