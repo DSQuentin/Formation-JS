@@ -2,12 +2,16 @@
   "name": "cours-22",
   "version": "1.0.0",
   "description": "",
-  "main": "script.js",
+  "main": ".eslintrc.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "node-sass --include-path scss ./main.scss ./style.css"
   },
   "author": "",
   "license": "ISC",
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  },
   "devDependencies": {
     "eslint": "^7.22.0",
     "eslint-config-airbnb-base": "^14.2.1",
