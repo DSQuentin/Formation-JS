@@ -107,3 +107,4 @@ Aperçu : https://crop-dom-elements.netlify.app/
 ## Cours 21 :
 
 Animer l'apparition des lettres <br>
+Aperçu : https://animated-letter-apparition.netlify.app/
