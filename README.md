@@ -103,3 +103,7 @@ Aperçu : https://todos-list-remembered.netlify.app/
 
 Recadrer les éléments du DOM comme sur FreeCodeCamp ou CodePen <br>
 Aperçu : https://crop-dom-elements.netlify.app/
+
+## Cours 21 :
+
+Animer l'apparition des lettres <br>
