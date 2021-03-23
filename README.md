@@ -108,3 +108,7 @@ Aperçu : https://crop-dom-elements.netlify.app/
 
 Animer l'apparition des lettres <br>
 Aperçu : https://animated-letter-apparition.netlify.app/
+
+## Cours 22 :
+
+Gérer les dates en JS <br>
