@@ -98,3 +98,7 @@ Aperçu : https://meals-for-all.netlify.app/
 
 Créer une Todo List qui enregistre les Todos <br>
 Aperçu : https://todos-list-remembered.netlify.app/
+
+## Cours 20 :
+
+Recadrer les éléments du DOM comme sur FreeCodeCamp ou CodePen <br>

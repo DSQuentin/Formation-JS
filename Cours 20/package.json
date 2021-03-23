@@ -1,0 +1,28 @@
+{
+  "name": "basic-project-file",
+  "version": "1.0.0",
+  "description": "Avec : \r * des photos randoms\r * une navbar toute faite\r * un body tout fait\r * des sons\r * des svg\r * jQuery et Bootstrap reliés",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass --watch ./main.scss:./style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustFS/basic-project-file.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JustFS/basic-project-file/issues"
+  },
+  "homepage": "https://github.com/JustFS/basic-project-file#readme",
+  "dependencies": {
+    "gulp": "^4.0.2"
+  },
+  "devDependencies": {
+    "eslint": "^7.22.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1"
+  }
+}
